@@ -1,0 +1,11 @@
+The goal is to:
+
+Build a small LAN
+
+Configure DHCP on the router
+
+Automatically assign IP addresses
+
+Test connectivity
+
+And understand what’s actually happening behind the scenes
